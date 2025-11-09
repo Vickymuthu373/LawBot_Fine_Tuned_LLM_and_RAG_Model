@@ -1,0 +1,67 @@
+CASE TITLE: Keshavananda Bharati v. State of Kerala
+CITATION: (1973) 4 SCC 225; AIR 1973 SC 1461
+DATE: 24 April 1973
+BENCH: 13 Judges – S.M. Sikri (C.J.), J.M. Shelat, K.S. Hegde, A.N. Grover, A.N. Ray, P. Jaganmohan Reddy, D.G. Palekar, H.R. Khanna, K.K. Mathew, M.H. Beg, S.N. Dwivedi, Y.V. Chandrachud, and A.K. Mukherjea.
+
+---
+
+FACTS:
+The petitioner, Keshavananda Bharati, head of a religious mutt in Kerala, challenged the constitutional validity of the 24th, 25th, and 29th Amendments to the Constitution of India. These amendments sought to give Parliament unlimited power to amend any part of the Constitution, including Fundamental Rights.
+
+The petition arose from restrictions placed by the Kerala Land Reforms Act, 1963, which aimed to redistribute land and impose limits on property ownership. The petitioner argued that these laws infringed upon his fundamental right to property under Article 19(1)(f) and his right to manage religious affairs under Article 26.
+
+---
+
+ISSUE:
+Whether the power of Parliament to amend the Constitution under Article 368 is unlimited, or if there are inherent limitations that preserve the “basic structure” of the Constitution.
+
+---
+
+ARGUMENTS:
+- **Petitioner (Bharati):** Argued that Parliament’s amending power is limited; it cannot destroy the basic structure of the Constitution, including fundamental rights and the principle of separation of powers.
+- **Respondent (State of Kerala):** Contended that Parliament has absolute power to amend any part of the Constitution under Article 368.
+
+---
+
+HELD:
+By a narrow majority of 7:6, the Supreme Court held that:
+- Parliament’s power to amend the Constitution is wide but not unlimited.
+- The **basic structure** of the Constitution cannot be destroyed or altered.
+- Fundamental rights can be amended, but not in a way that violates the basic structure.
+
+The doctrine of **Basic Structure** was thus established.
+
+---
+
+RATIO DECIDENDI:
+The Supreme Court ruled that while Article 368 grants Parliament the power to amend, it does not empower it to destroy or abrogate the essential features of the Constitution. The following were recognized as part of the “basic structure”:
+- Supremacy of the Constitution  
+- Rule of Law  
+- Separation of Powers  
+- Judicial Review  
+- Fundamental Rights  
+- Federalism  
+- Secularism  
+- Democratic form of government
+
+---
+
+SIGNIFICANCE:
+This landmark case is considered the most important constitutional decision in Indian history. It limited Parliament’s power to amend the Constitution and preserved India’s democratic framework. It continues to be cited in numerous judgments on constitutional interpretation.
+
+---
+
+KEY QUOTE:
+“The basic structure of the Constitution cannot be abrogated even by a constitutional amendment.”
+– Chief Justice S.M. Sikri
+
+---
+
+RELATED CASES:
+- Shankari Prasad v. Union of India (1951)
+- Sajjan Singh v. State of Rajasthan (1965)
+- Golaknath v. State of Punjab (1967)
+- Indira Nehru Gandhi v. Raj Narain (1975)
+- Minerva Mills v. Union of India (1980)
+
+---
